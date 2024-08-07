@@ -7,7 +7,7 @@ public class HelloWorld {
     }
 
 }
-
+// System --> class , out --> field, println --> Method
 //Basic Output
 //1.System.out.println() -->  It prints the given text and adds a new line at the end
 //2.System.out.print() --> This method prints the text without adding a new line.
